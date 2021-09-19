@@ -11,6 +11,6 @@ see [multi-module Maven project](../maven-multimodule/README.md)
         mvn clean verify sonar:sonar
 ```
 
-## Documentation
+## Documentation=====
 
 [SonarScanner for Maven](https://docs.sonarqube.org/latest/analysis/scan/sonarscanner-for-maven/)
